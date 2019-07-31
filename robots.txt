@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://ilovett.com/sitemap.xml
